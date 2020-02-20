@@ -1,7 +1,7 @@
 {
     "symbol": "aUSDC",
     "address": "0xD4f10f8F88d12f96f69D9378972F06Ab10D80DD6",
-    "decimals": 18,
+    "decimals": 6,
     "name": "Aave Interest bearing USDC",
     "ens_address": "",
     "website": "",

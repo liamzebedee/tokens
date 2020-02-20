@@ -1,7 +1,7 @@
 {
     "symbol": "imBTC",
     "address": "0x3212b29E33587A00FB1C83346f5dBFA69A458923",
-    "decimals": 2,
+    "decimals": 8,
     "name": "The Tokenized Bitcoin",
     "ens_address": "",
     "website": "",
